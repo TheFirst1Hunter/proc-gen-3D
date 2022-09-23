@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "b7iPuJXH+rXXJGgPu7xrKOEsxUUF51p7mO4p/mplo0FR+rLW90XrYJMYIV25nmYTrcyIm2oJY0iXP5LaVFu8pQ==",
+  "success": true,
+  "projectFilePath": "/Users/abdullaa_taha/Desktop/coding/proc gen/Proc Gen.csproj",
+  "expectedPackageFiles": [
+    "/Users/abdullaa_taha/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.2/microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "/Users/abdullaa_taha/.nuget/packages/microsoft.netframework.referenceassemblies.net472/1.0.2/microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

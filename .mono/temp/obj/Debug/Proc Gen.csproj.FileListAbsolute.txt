@@ -1,0 +1,9 @@
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/obj/Debug/Proc Gen.csproj.AssemblyReference.cache
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/obj/Debug/Proc Gen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/obj/Debug/Proc Gen.AssemblyInfoInputs.cache
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/obj/Debug/Proc Gen.AssemblyInfo.cs
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/obj/Debug/Proc Gen.csproj.CoreCompileInputs.cache
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/bin/Debug/Proc Gen.dll
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/bin/Debug/Proc Gen.pdb
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/obj/Debug/Proc Gen.dll
+/Users/abdullaa_taha/Desktop/coding/proc gen/.mono/temp/obj/Debug/Proc Gen.pdb
